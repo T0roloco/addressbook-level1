@@ -29,6 +29,8 @@ import java.util.Set;
  * use this class are documented elsewhere.
  * ====================================================================
  */
+/** THIS IS SO MUCH CODE AND I DONT UNDERSTAND NAY OF IT. MAY THE LORD HAVE MERCY
+ **/
 
 /**
  * This class is used to maintain a list of person data which are saved
